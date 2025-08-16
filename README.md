@@ -1,4 +1,4 @@
-# clustering_advanced_concepts
+# Clustering - Advanced Concepts
 Genie method and DBSCAN method
 
 Considering worms_2 data sets (data are available at https://github.com/gagolews/clustering-data-v1/tree/master/sipu).
